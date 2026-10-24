@@ -10,7 +10,7 @@ I used what I learned from the first attempt to improve the program.
 
 ## Improvements from V1
 
-- Added better input validation
+- Added better input validation (2 ways)
 - Handled additional edge cases
 - Improved the calculation logic
 - Improved the structure and readability of the code
